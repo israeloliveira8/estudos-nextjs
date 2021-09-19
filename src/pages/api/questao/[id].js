@@ -12,7 +12,7 @@ function get(req, res) {
         id,
         enunciado: 'Qual é a sua cor preferida?',
         respostas: [
-            'Branca', 'Vermelha', 'Amarela', 'Verde'
+            'Branca', 'Vermelha', 'Amarela', 'Verde', 'Púrpura'
         ]
     })
 }
